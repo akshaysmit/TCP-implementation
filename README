@@ -1,0 +1,14 @@
+Group number 22
+
+Nikola Samardzic   904799099
+Akshay Smit        804641231
+
+Division of labor:
+
+Nikola: ACKreader thread implementation, selective repeat window movement, extra credit
+TCP state changes and window movement controlled by ssthresh, slow start, congestion avoidance,
+3-way handshake
+
+Akshay: Basic UDP communications, packet design, send_file implementation, chrono timers,
+client-side buffering, wraparound of sequence number, fast retransmission and fast recovery,
+FIN procedure
